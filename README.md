@@ -1,4 +1,3 @@
-jQuery.hash
-===========
+jQuery Hash plugin
+========
 
-An utility to handle URL Hash based on jQuery
